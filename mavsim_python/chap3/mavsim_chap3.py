@@ -10,9 +10,9 @@ sys.path.append('..')
 import numpy as np
 import parameters.simulation_parameters as SIM
 
-from chap2.mav_viewer import mavViewer
-from chap3.data_viewer import dataViewer
-from chap3.mav_dynamics import mavDynamics
+from chap2.mav_viewer import mav_viewer
+from chap3.data_viewer import data_viewer
+from chap3.mav_dynamics import mav_dynamics
 
 
 # initialize the visualization
